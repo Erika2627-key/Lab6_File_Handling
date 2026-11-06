@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Tabardilla
+Student ID: TUPM-26-7938
+Seed Digit: 8
+ID Sum: 35
+verification_value: 358
+Dataset Sample Size: 85
+Valid Records: 85
+Average Global Active Power: 3.914
+JSON File: Tabardilla_TUPM-26-7938_record.json
+Backup File: Tabardilla_TUPM-26-7938_record.csv
